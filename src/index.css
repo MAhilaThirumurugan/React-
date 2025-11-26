@@ -1,0 +1,59 @@
+.w-20{
+  width:20%
+}
+.w-30{
+  width:30%
+}
+.logo-text{
+  width:100px;
+}
+.bi{
+  margin-right: 10px;
+}
+.story{
+  height: 70px;
+  padding: 10px;
+}
+.dp{
+  width:20px;
+  height: 20px;
+  margin-top: 5px;
+  margin-right:5px
+}
+.image{
+  width: 300px;
+}
+
+.suggestion h5{
+  font-size: 15px;
+}
+.suggestion.dp{
+  margin-top: 0px !important;
+}
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+ 
+ 
+  background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+}
+.story-dp{
+  width:40px;
+  height:40px
+}
+.story-image {
+  width: auto;
+  height: 100vh;
+  display: block;
+  margin: 0 auto;             /* center horizontally */
+  object-fit: contain;        /* keeps original rectangle */
+  background-color: black;    /* optional: looks like IG */
+}
+.profile{
+  width:50px;
+  height: 50px;
+}

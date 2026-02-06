@@ -1,5 +1,6 @@
 #  React Instagram Clone
-
+## Output Screenshot
+![Instagram Clone Output](Screenshots/home1.png)
 ##  Description
 A React-based Instagram Clone application built using a clean folder structure and reusable components.  
 This project replicates core Instagram features such as post feeds, user profiles, and UI layout to practice real-world frontend development.
